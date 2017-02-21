@@ -14,5 +14,4 @@ then
     sudo chown root /vagrant/lockedbox
 fi
 
-echo "all done, you should reboot now"
 exit 0
