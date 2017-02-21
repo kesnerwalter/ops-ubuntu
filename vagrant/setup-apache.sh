@@ -7,8 +7,4 @@ sudo apt-get install memcached
 
 sudo phpenmod mcrypt
 
-sudo apt-get -y install php
-
-sudo service apache2 restart
-
-exit
+exit 0
